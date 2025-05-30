@@ -24,6 +24,6 @@
 
 |APK|描述|首次通过|第二遍|
 ----
-|sherpa-onnx-xyz-arm64-v8a-asr_2pass-zh-small_zipformer_zipformer.apk|它仅支持中文。|sherpa-onnx-streaming-zipformer-zh-14M-2023-02-23	icefall-asr-zipformer-wenetspeech-20230615|
-|sherpa-onnx-xyz-arm64-v8a-asr_2pass-zh-small_zipformer_paraformer.apk|它仅支持中文。|sherpa-onnx-streaming-zipformer-zh-14M-2023-02-23	sherpa-onnx-paraformer-zh-2023-03-28|
-|sherpa-onnx-xyz-arm64-v8a-asr_2pass-en-small_zipformer_whisper_tiny.apk|它仅支持英语。|sherpa-onnx-streaming-zipformer-en-20M-2023-02-17	sherpa-onnx-whisper-tiny.en|
+|sherpa-onnx-xyz-arm64-v8a-asr_2pass-zh-small_zipformer_zipformer.apk|它仅支持中文|sherpa-onnx-streaming-zipformer-zh-14M-2023-02-23|icefall-asr-zipformer-wenetspeech-20230615|
+|sherpa-onnx-xyz-arm64-v8a-asr_2pass-zh-small_zipformer_paraformer.apk|它仅支持中文|sherpa-onnx-streaming-zipformer-zh-14M-2023-02-23|sherpa-onnx-paraformer-zh-2023-03-28|
+|sherpa-onnx-xyz-arm64-v8a-asr_2pass-en-small_zipformer_whisper_tiny.apk|它仅支持英语|sherpa-onnx-streaming-zipformer-en-20M-2023-02-17|sherpa-onnx-whisper-tiny.en|
