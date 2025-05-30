@@ -1,18 +1,5 @@
----
-license: mit
----
+该ONNX模型过大，项目中文件不全。
+有需要请访问 https://k2-fsa.github.io/sherpa/onnx/android/apk-2pass.html 找到 sherpa-onnx-paraformer-zh-2023-03-28 下载导入即可。
 
-# Introduction
 
-This repo saved onnx models for [Paraformer](https://arxiv.org/abs/2206.08317).
 
-Please refer to
-https://github.com/k2-fsa/sherpa-onnx
-for usages.
-
-Please refer to
-https://huggingface.co/csukuangfj/paraformer-onnxruntime-python-example
-for how the model.onnx is obtained.
-
-See https://github.com/alibaba-damo-academy/FunASR
-for more details
